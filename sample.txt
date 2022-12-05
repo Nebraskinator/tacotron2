@@ -1,0 +1,1 @@
+python GTA.py -o output -c models/tacotron2_statedict.pt
